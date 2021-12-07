@@ -18,6 +18,6 @@ def main():
 
 if __name__ == '__main__':
     main()
-    print(1)
+    print(2)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
